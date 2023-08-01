@@ -1,0 +1,13 @@
+.formMine {
+  margin-top: 0;
+}
+.AddBtn,
+.deleteBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.showError {
+  color: red;
+}
